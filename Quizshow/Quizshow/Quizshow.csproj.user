@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Elements\auctionBoard.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Elements\scoreBoards.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Elements\SloxiRow.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Elements\WilliRow.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Elements\wordcounter.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Menü.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Quiz\auktion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Quiz\Longest.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Quiz\Sloxikon.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Quiz\Spotify.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Quiz\TenVsWilli.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
